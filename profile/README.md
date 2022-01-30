@@ -14,5 +14,5 @@ Here are some of the cool ones:
 
 Feel free to browse through my [Assignments & Coursework](http://about:blank/) repo for more interesting code snippets.
 
-## Thanks for stopping by! 🤓
+## Thanks for stopping by! 🙏
 If you want to keep in touch, please message me on [LinkedIn](https://www.linkedin.com/in/tonykliu/).
