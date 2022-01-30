@@ -1,4 +1,4 @@
-# Hi. I'm [Tony](https://www.linkedin.com/in/tonykliu/) 👋
+# Hi, I'm [Tony](https://www.linkedin.com/in/tonykliu/) 👋
 
 ![My picture](/profile/img/headshot-200px.jpg)
 
