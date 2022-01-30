@@ -8,8 +8,10 @@ My story goes here
 Code I've written for assignments & coursework are on my GitHub.
 
 Here are some of the interesting ones:
-- [Credit Card Validator](https://github.com/reluctantHero21/cs50x/blob/main/c/credit/readme.md): A program in C that checks the validity of a card number based on Luhn's checksum
-- (more to come)
+- [Credit card validator](https://github.com/reluctantHero21/cs50x/blob/main/c/credit/readme.md): A program in C that checks the validity of a card number based on Luhn's checksum
+- [Merge and order arrays](https://github.com/reluctantHero21/comp202/tree/main/java/array-merge-sort): A Java program that merges and sorts arrays of strings alphabetically using bubble sort
+
+(more to come)
 
 Feel free to browse through my [Assignments & Coursework](https://github.com/reluctantHero21/cs50x) repo for more interesting code snippets.
 
