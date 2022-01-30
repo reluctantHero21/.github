@@ -1,6 +1,6 @@
 # Hi. I'm [Tony](https://www.linkedin.com/in/tonykliu/) 👋
 
-![My picture](/profile/img/headshot.jpg)
+![My picture](/profile/img/headshot-200px.jpg)
 
 ## My story 👨‍💻
 My story goes here
