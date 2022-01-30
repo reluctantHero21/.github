@@ -6,8 +6,8 @@ A few years ago, I left my career in accounting to pursue a self-taught journey 
 
 ## Assignments and coursework 💭
 Examples of programs I've written as part of CS assignments and coursework:
-- [Credit card validator](https://github.com/reluctantHero21/cs50x/blob/main/c/credit/readme.md): A program in C that checks the validity of a card number based on Luhn's checksum
-- [Substitution cipher](https://github.com/reluctantHero21/cs50x/blob/main/c/substitution/readme.md): A program in C that converts plaintext to ciphertext using a substitution cipher
+- [Credit card validator](https://github.com/reluctantHero21/cs50x/blob/main/c/credit/readme.md): A program in C that checks the validity of a card number based on [Luhn's checksum](https://en.wikipedia.org/wiki/Luhn_algorithm)
+- [Substitution cipher](https://github.com/reluctantHero21/cs50x/blob/main/c/substitution/readme.md): A program in C that converts plaintext to ciphertext using a [substitution cipher](https://en.wikipedia.org/wiki/Substitution_cipher)
 - [Merge and order arrays](https://github.com/reluctantHero21/comp202/tree/main/java/array-merge-sort): A Java program that merges and sorts arrays of strings alphabetically using [bubble sort](https://www.youtube.com/watch?v=koMpGeZpu4Q)
 
 Feel free to browse through my [CS50x](https://github.com/reluctantHero21/cs50x) and [COMP202](https://github.com/reluctantHero21/comp202) repos for more interesting code snippets and programs.
