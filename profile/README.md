@@ -14,7 +14,7 @@ Feel free to browse through my [CS50x](https://github.com/reluctantHero21/cs50x)
 
 ## Security themed coding challenges
 (to come)
-[.](https://github.com/gracenolan/Notes/blob/master/interview-study-notes-for-security-engineering.md#security-themed-coding-challenges)
+[~](https://github.com/gracenolan/Notes/blob/master/interview-study-notes-for-security-engineering.md#security-themed-coding-challenges)
 
 ## Thanks for stopping by! 🙏
 If you want to keep in touch, please message me on [LinkedIn](https://www.linkedin.com/in/tonykliu/).
