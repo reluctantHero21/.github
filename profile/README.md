@@ -2,7 +2,7 @@
 <!-- ![My picture](/profile/img/headshot-200px.jpg) -->
 
 ## My story 👨‍💻
-A few years ago, I left my career in accounting to pursue a self-taught journey in InfoSec. I am now relearning coding basics in order to build useful scripts as a security engineer.
+A few years ago, I left my career in accounting to pursue a self-taught journey in InfoSec. I am now relearning coding in order to build useful scripts as a security engineer.
 
 ## Assignments and coursework 💭
 Examples of programs I've written as part of CS assignments and coursework:
