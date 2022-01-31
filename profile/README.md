@@ -10,7 +10,7 @@ Examples of programs I've written as part of CS assignments and coursework:
 - [Substitution cipher](https://github.com/reluctantHero21/cs50x/blob/main/c/substitution/readme.md): A program in C that converts plaintext to ciphertext using a [substitution cipher](https://en.wikipedia.org/wiki/Substitution_cipher)
 - [Merge and order arrays](https://github.com/reluctantHero21/comp202/tree/main/java/array-merge-sort): A Java program that merges and sorts arrays of strings alphabetically using [bubble sort](https://www.youtube.com/watch?v=koMpGeZpu4Q)
 
-Feel free to browse through my [CS50x](https://github.com/reluctantHero21/cs50x) and [COMP202](https://github.com/reluctantHero21/comp202) repos for more interesting code snippets and programs.
+Feel free to browse through my [CS50x](https://github.com/reluctantHero21/cs50x/c) and [COMP202](https://github.com/reluctantHero21/comp202/java) repos for more interesting code snippets and programs.
 
 ## Security themed coding challenges
 (to come)
